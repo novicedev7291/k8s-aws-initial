@@ -1,0 +1,4 @@
+credentials.sh
+.terraform
+*.tfstate
+*.tfstate.backup
